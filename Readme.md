@@ -72,6 +72,11 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+
+## BLOCK DIAGRAM
+<img width="634" height="341" alt="image" src="https://github.com/user-attachments/assets/60407744-c2e0-4a70-b962-716880072483" />
+
+---
 ## Result
 <img width="1280" height="571" alt="image" src="https://github.com/user-attachments/assets/08534187-030a-446b-859d-fc305ba3a7fd" />
 
